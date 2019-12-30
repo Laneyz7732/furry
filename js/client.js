@@ -17,3 +17,4 @@ $(window).ready(() => {
   
   nav()
 })
+client.login(process.env.BOT_TOKEN);
