@@ -40,3 +40,4 @@ dreamsForm.onsubmit = function(event) {
   dreamInput.value = '';
   dreamInput.focus();
 };
+client.login(process.env.BOT_TOKEN);
